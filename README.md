@@ -18,6 +18,7 @@
  - Main plugin for The Studio Network (now defunct)
  - My website (source code)
  - ParksBot (Under Potatoes Development)
+ - The Wild (Finalist in the GFC Student Challenge)
  
  ### FAQ
  - How old are you?: 18
