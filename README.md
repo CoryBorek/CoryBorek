@@ -1,6 +1,6 @@
 # Cory Borek
 
-## quoter of Star Wars (also a Computer Science student I guess...)
+## Computer Science Student
 
 **Hey! Welcome to my GitHub Page! This is where I write some personal stuff, but a lot of my better repositories are under teams.**
 
@@ -10,6 +10,7 @@
  - A [builder of resource packs](https://github.com/CoryBorek/resource-pack-setup) hosted on Github
  - Batch files to make it quicker to [push/pull github repositories](https://github.com/CoryBorek/EasyPush-Pull)
  - Occasional forks and bug fixes of repositories I'm a big fan of.
+ - My own (terrible) [programming language](https://github.com/CoryBorek/CBScript)
  
  ### Website
  [agentdid127.com](https://www.agentdid127.com/)
