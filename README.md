@@ -20,12 +20,13 @@
  - My website (source code)
  - ParksBot (Under Potatoes Development)
  - The Wild (Finalist in the GFC Student Challenge)
+ - Project Stardust (upcoming productivity software)
  
  ### FAQ
- - How old are you?: 18
+ - How old are you?: 20
  - What else have you worked on?: I used to work at MCParks, then was an owner of The Studio Network before that shut down.
  - What are you studying in college?:I'm working on my BS in Computer Science.
  - How did you learn to code?: I started by goofing off with commands in Minecraft, which led me into game development with Unity3D, which later I got into plugin development/devops type stuff for Minecraft.
- - What is your dream job?: I'd love to be a Software Engineer or Game Developer at some point in the future.
- - What languages do you know?: Speaking or programming? I only speak English, but I know a little spanish and a few phrases in Polish. I know quite a few programming languages, but nowadays, I mostly write with Java, though I occasionally use different ones if a project would work better with it. Example: my website is written in React.JS, ParksBot (though probably down, I need to fix that) is Javascript, and the Resource Pack Setup script is in Python. I sometimes have written C# applications for the heck of it, and use that if i ever mess around in Unity.
+ - What is your dream job?: I'd love to be a Software Engineer at some point in the future.
+ - What languages do you know?: Speaking or programming? I only speak English, but I know a little spanish and a few phrases in Polish. I know quite a few programming languages, but nowadays, I mostly write with Java, though I occasionally use different ones if a project would work better with it. Example: my website is written in React.JS, ParksBot was Javascript, and the Resource Pack Setup script is in Python. I sometimes have written C# applications for the heck of it, and use that if i ever mess around in Unity.
  - You underestimate my power?: Don't try it.
