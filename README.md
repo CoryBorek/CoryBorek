@@ -1,32 +1,18 @@
 # Cory Borek
 
 ## Computer Science Student
+Hey! I'm a Computer Science Student at the University of Georgia.
 
-**Hey! Welcome to my GitHub Page! This is where I write some personal stuff, but a lot of my better repositories are under teams.**
+I don't update this README thing too often, so I'll keep it brief.
 
-### Public Things I have worked on:
- - My fork of Hypixel's [Resource Pack Converter](https://github.com/agentdid127/ResourcePackConverter)
- - a [GUI addon](https://github.com/agentdid127/RPC-GUI) for the Resource Pack Converter
- - A [builder of resource packs](https://github.com/CoryBorek/resource-pack-setup) hosted on Github
- - Batch files to make it quicker to [push/pull github repositories](https://github.com/CoryBorek/EasyPush-Pull)
- - Occasional forks and bug fixes of repositories I'm a big fan of.
- - My own (terrible) [programming language](https://github.com/CoryBorek/CBScript)
- 
- ### Website
- [agentdid127.com](https://www.agentdid127.com/)
- 
- ### Other projects (source not public)
- - Main plugin for The Studio Network (now defunct)
- - My website (source code)
- - ParksBot (Under Potatoes Development)
- - The Wild (Finalist in the GFC Student Challenge)
- - Project Stardust (upcoming productivity software)
- 
- ### FAQ
- - How old are you?: 20
- - What else have you worked on?: I used to work at MCParks, then was an owner of The Studio Network before that shut down.
- - What are you studying in college?:I'm working on my BS in Computer Science.
- - How did you learn to code?: I started by goofing off with commands in Minecraft, which led me into game development with Unity3D, which later I got into plugin development/devops type stuff for Minecraft.
- - What is your dream job?: I'd love to be a Software Engineer at some point in the future.
- - What languages do you know?: Speaking or programming? I only speak English, but I know a little spanish and a few phrases in Polish. I know quite a few programming languages, but nowadays, I mostly write with Java, though I occasionally use different ones if a project would work better with it. Example: my website is written in React.JS, ParksBot was Javascript, and the Resource Pack Setup script is in Python. I sometimes have written C# applications for the heck of it, and use that if i ever mess around in Unity.
- - You underestimate my power?: Don't try it.
+I do lots different things, some that are shared, others that aren't.
+
+## Some things I have worked on, or previously worked on
+- ### Project Stardust: [website](https://erliapp.com/) [My Personal Dev Blog](https://coryborek.github.io/projects/project-stardust/)
+- ### [ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter)
+- ### [Admin at rOverwatch2](https://discord.gg/overwatch-2)
+- ### I Interned at Anduril Industries during Summer of 2022.
+- ### ParksBot (now defunct)
+- ### Previously at [MCParks](https://mcparks.us/)
+
+There's lots of others, but I don't indend to update this for forever, so if you need a bigger picture, look at my [Markdown site](https://coryborek.github.io/)!
