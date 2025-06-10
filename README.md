@@ -1,0 +1,38 @@
+# Cory Borek
+Software Engineer and Computer Science Student
+
+### GitHub Stats
+
+<p align="left"><img src="https://raw.githubusercontent.com/CoryBorek/CoryBorek/main/github-metrics.svg" /></p>
+
+### Recent Contributions
+
+- [CoryBorek/nixos-research](https://github.com/CoryBorek/nixos-research) - 
+- [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter) - A utility that allows Minecraft: Java Edition resource packs to work in other versions accurately and effectively.
+- [CoryBorek/notes-md](https://github.com/CoryBorek/notes-md) - The Markdown Source for my website.
+- [OverSeasonsCommunity/mc-pack](https://github.com/OverSeasonsCommunity/mc-pack) - 
+- [LowtoHighLevel/CPU](https://github.com/LowtoHighLevel/CPU) - 
+### Latest Projects
+
+- [CoryBorek/nixos-research](https://github.com/CoryBorek/nixos-research) - 
+- [CoryBorek/corys-overseasons-modpack](https://github.com/CoryBorek/corys-overseasons-modpack) - A Modpack for the new Overseasons Minecraft Server
+- [CoryBorek/random-kernel](https://github.com/CoryBorek/random-kernel) - 
+- [CoryBorek/update-grub](https://github.com/CoryBorek/update-grub) - 
+- [CoryBorek/eater-emulator](https://github.com/CoryBorek/eater-emulator) - 
+### Recent Pull Requests
+
+- [Dev/1.21.4](https://github.com/agentdid127/ResourcePackConverter/pull/245) on [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter)
+- [fix builder issue](https://github.com/OverSeasonsCommunity/mc-pack/pull/1) on [OverSeasonsCommunity/mc-pack](https://github.com/OverSeasonsCommunity/mc-pack)
+### Recent Stars
+
+- [mikel-brostrom/Yolov3_DeepSort_Pytorch](https://github.com/mikel-brostrom/Yolov3_DeepSort_Pytorch) - Real-time multi-person tracker using YOLO v3 and deep sort
+- [visrealm/vrEmu6502](https://github.com/visrealm/vrEmu6502) - 6502/65C02 emulator library (C99)
+- [scottwilliambeasley/debian-from-scratch](https://github.com/scottwilliambeasley/debian-from-scratch) - An instruction manual for teaching Linux From Scratch users how to make a fully-fledged Debian system based on LFS.
+- [CoryBorek/markdown-site](https://github.com/CoryBorek/markdown-site) - 
+- [skymines-network/SkyBackend](https://github.com/skymines-network/SkyBackend) - Backend plugin for SkyMines Network Servers
+### Links:
+  - Youtube        : <https://youtube.com/@agentdid127>
+  - Twitch         : <https://twitch.tv/agentdid127>
+  - Website        : <https://agentdid127.com>
+  - LowToHighLevel : <https://youtube.com/@LowToHighLevel>
+  - Notes Page     : <https://coryborek.github.io/notes/>
