@@ -1,18 +1,13 @@
 # Cory Borek
 
-## Computer Science Student
-Hey! I'm a Computer Science Student at the University of Georgia.
+Hey! I am Cory Borek, and I am a Software Engineer!
 
-I don't update this README thing too often, so I'll keep it brief.
+My time is a little all over the place, so here's a brief list of what I'm up to these days:
 
-I do lots different things, some that are shared, others that aren't.
+ - ### [Resource Pack Converter](https://github.com/agentdid127/ResourcePackConverter) - Maintainer
+ - ### [Overseasons](https://discord.gg/overseasons)
+ - ### [Early](https://erliapp.com/)
+ - ### Research at School
+ - ### Studying Computer Science at the [University of Georgia](https://uga.edu)
 
-## Some things I have worked on, or previously worked on
-- ### [Early](https://erliapp.com/)
-- ### [ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter)
-- ### [Admin at Overseasons](https://discord.gg/overseasons)
-- ### I Interned at Anduril Industries during Summer of 2022.
-- ### ParksBot (now defunct)
-- ### Previously at [MCParks](https://mcparks.us/)
-
-There's lots of others, but I don't indend to update this for forever, so if you need a bigger picture, look at my [Markdown site](https://coryborek.github.io/notes/)!
+ - [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoryBorek)](https://github.com/anuraghazra/github-readme-stats)
