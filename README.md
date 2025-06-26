@@ -14,11 +14,11 @@ Software Engineer and Computer Science Student
 - [OverSeasonsCommunity/mc-pack](https://github.com/OverSeasonsCommunity/mc-pack) - 
 ### Latest Projects
 
+- [CoryBorek/lfs](https://github.com/CoryBorek/lfs) - 
 - [CoryBorek/mc-server-scripts](https://github.com/CoryBorek/mc-server-scripts) - 
 - [CoryBorek/nixos-research](https://github.com/CoryBorek/nixos-research) - 
 - [CoryBorek/corys-overseasons-modpack](https://github.com/CoryBorek/corys-overseasons-modpack) - A Modpack for the new Overseasons Minecraft Server
 - [CoryBorek/random-kernel](https://github.com/CoryBorek/random-kernel) - 
-- [CoryBorek/update-grub](https://github.com/CoryBorek/update-grub) - 
 ### Recent Pull Requests
 
 - [Dev/1.21.4](https://github.com/agentdid127/ResourcePackConverter/pull/245) on [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter)
