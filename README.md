@@ -7,11 +7,11 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
+- [CoryBorek/nixconfig](https://github.com/CoryBorek/nixconfig) - 
 - [CoryBorek/notes-md](https://github.com/CoryBorek/notes-md) - The Markdown Source for my website.
 - [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter) - A utility that allows Minecraft: Java Edition resource packs to work in other versions accurately and effectively.
-- [CoryBorek/mc-server-scripts](https://github.com/CoryBorek/mc-server-scripts) - 
 - [CoryBorek/nixos-research](https://github.com/CoryBorek/nixos-research) - 
-- [OverSeasonsCommunity/mc-pack](https://github.com/OverSeasonsCommunity/mc-pack) - 
+- [CoryBorek/mc-server-scripts](https://github.com/CoryBorek/mc-server-scripts) - 
 ### Latest Projects
 
 - [CoryBorek/site-static](https://github.com/CoryBorek/site-static) - 
