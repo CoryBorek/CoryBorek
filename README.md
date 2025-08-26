@@ -7,18 +7,18 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
-- [OverSeasonsCommunity/mc-pack](https://github.com/OverSeasonsCommunity/mc-pack) - 
 - [CoryBorek/notes-md](https://github.com/CoryBorek/notes-md) - The Markdown Source for my website.
+- [CoryBorek/BoxSMPPack](https://github.com/CoryBorek/BoxSMPPack) - 
+- [OverSeasonsCommunity/mc-pack](https://github.com/OverSeasonsCommunity/mc-pack) - 
 - [CoryBorek/markdown-site](https://github.com/CoryBorek/markdown-site) - 
 - [LowtoHighLevel/markdown-source](https://github.com/LowtoHighLevel/markdown-source) - 
-- [CoryBorek/coryborek.github.io](https://github.com/CoryBorek/coryborek.github.io) - 
 ### Latest Projects
 
+- [CoryBorek/BoxSMPPack](https://github.com/CoryBorek/BoxSMPPack) - 
 - [CoryBorek/site-static](https://github.com/CoryBorek/site-static) - 
 - [CoryBorek/lfs](https://github.com/CoryBorek/lfs) - 
 - [CoryBorek/mc-server-scripts](https://github.com/CoryBorek/mc-server-scripts) - 
 - [CoryBorek/nixos-research](https://github.com/CoryBorek/nixos-research) - 
-- [CoryBorek/corys-overseasons-modpack](https://github.com/CoryBorek/corys-overseasons-modpack) - A Modpack for the new Overseasons Minecraft Server
 ### Recent Pull Requests
 
 - [0.0.5](https://github.com/OverSeasonsCommunity/mc-pack/pull/2) on [OverSeasonsCommunity/mc-pack](https://github.com/OverSeasonsCommunity/mc-pack)
