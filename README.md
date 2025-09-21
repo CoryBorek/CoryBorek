@@ -7,11 +7,11 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
+- [CoryBorek/BoxSMPPack](https://github.com/CoryBorek/BoxSMPPack) - 
 - [CoryBorek/notes-md](https://github.com/CoryBorek/notes-md) - The Markdown Source for my website.
 - [LowtoHighLevel/markdown-source](https://github.com/LowtoHighLevel/markdown-source) - 
 - [LowtoHighLevel/LowtoHighLevel.github.io](https://github.com/LowtoHighLevel/LowtoHighLevel.github.io) - 
 - [agentdid127/MinecraftWebSocketAPI](https://github.com/agentdid127/MinecraftWebSocketAPI) - A library to connect to a minecraft server after 25w35a
-- [CoryBorek/BoxSMPPack](https://github.com/CoryBorek/BoxSMPPack) - 
 ### Latest Projects
 
 - [CoryBorek/BoxSMPPack](https://github.com/CoryBorek/BoxSMPPack) - 
@@ -21,11 +21,11 @@ Software Engineer and Computer Science Student
 - [CoryBorek/nixos-research](https://github.com/CoryBorek/nixos-research) - 
 ### Recent Pull Requests
 
+- [update pack](https://github.com/CoryBorek/BoxSMPPack/pull/1) on [CoryBorek/BoxSMPPack](https://github.com/CoryBorek/BoxSMPPack)
 - [0.0.5](https://github.com/OverSeasonsCommunity/mc-pack/pull/2) on [OverSeasonsCommunity/mc-pack](https://github.com/OverSeasonsCommunity/mc-pack)
 - [Feature: Hold sneak to split the amount of time to go through the portal in half](https://github.com/shiroroku/SimplyStackedDimensions/pull/2) on [shiroroku/SimplyStackedDimensions](https://github.com/shiroroku/SimplyStackedDimensions)
 - [Release 2.2.6 (version bump)](https://github.com/agentdid127/ResourcePackConverter/pull/253) on [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter)
 - [Add support for 1.21.8, bump version number](https://github.com/agentdid127/ResourcePackConverter/pull/252) on [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter)
-- [push release](https://github.com/agentdid127/ResourcePackConverter/pull/249) on [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter)
 ### Recent Stars
 
 - [mikel-brostrom/Yolov3_DeepSort_Pytorch](https://github.com/mikel-brostrom/Yolov3_DeepSort_Pytorch) - Real-time multi-person tracker using YOLO v3 and deep sort
