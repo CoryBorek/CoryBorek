@@ -7,11 +7,11 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
+- [CoryBorek/coryborek.github.io](https://github.com/CoryBorek/coryborek.github.io) - 
 - [CoryBorek/BoxSMPPack](https://github.com/CoryBorek/BoxSMPPack) - 
 - [CoryBorek/notes-md](https://github.com/CoryBorek/notes-md) - The Markdown Source for my website.
 - [LowtoHighLevel/markdown-source](https://github.com/LowtoHighLevel/markdown-source) - 
 - [LowtoHighLevel/LowtoHighLevel.github.io](https://github.com/LowtoHighLevel/LowtoHighLevel.github.io) - 
-- [agentdid127/MinecraftWebSocketAPI](https://github.com/agentdid127/MinecraftWebSocketAPI) - A library to connect to a minecraft server after 25w35a
 ### Latest Projects
 
 - [CoryBorek/BoxSMPPack](https://github.com/CoryBorek/BoxSMPPack) - 
