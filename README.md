@@ -11,7 +11,7 @@ Software Engineer and Computer Science Student
 - [LowtoHighLevel/CPU](https://github.com/LowtoHighLevel/CPU) - 
 - [LowtoHighLevel/markdown-source](https://github.com/LowtoHighLevel/markdown-source) - 
 - [CoryBorek/notes-md](https://github.com/CoryBorek/notes-md) - The Markdown Source for my website.
-- [CoryBorek/markdown-site](https://github.com/CoryBorek/markdown-site) - 
+- [CoryBorek/coryborek.github.io](https://github.com/CoryBorek/coryborek.github.io) - 
 ### Latest Projects
 
 - [CoryBorek/BoxSMPPack](https://github.com/CoryBorek/BoxSMPPack) - 
