@@ -7,18 +7,18 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
+- [CoryBorek/lavacraft4-modpack](https://github.com/CoryBorek/lavacraft4-modpack) - 
 - [LowtoHighLevel/ASM](https://github.com/LowtoHighLevel/ASM) - 
 - [LowtoHighLevel/CPU](https://github.com/LowtoHighLevel/CPU) - 
 - [LowtoHighLevel/markdown-source](https://github.com/LowtoHighLevel/markdown-source) - 
 - [CoryBorek/notes-md](https://github.com/CoryBorek/notes-md) - The Markdown Source for my website.
-- [CoryBorek/coryborek.github.io](https://github.com/CoryBorek/coryborek.github.io) - 
 ### Latest Projects
 
+- [CoryBorek/lavacraft4-modpack](https://github.com/CoryBorek/lavacraft4-modpack) - 
 - [CoryBorek/BoxSMPPack](https://github.com/CoryBorek/BoxSMPPack) - 
 - [CoryBorek/site-static](https://github.com/CoryBorek/site-static) - 
 - [CoryBorek/lfs](https://github.com/CoryBorek/lfs) - 
 - [CoryBorek/mc-server-scripts](https://github.com/CoryBorek/mc-server-scripts) - 
-- [CoryBorek/nixos-research](https://github.com/CoryBorek/nixos-research) - 
 ### Recent Pull Requests
 
 - [update pack](https://github.com/CoryBorek/BoxSMPPack/pull/1) on [CoryBorek/BoxSMPPack](https://github.com/CoryBorek/BoxSMPPack)
