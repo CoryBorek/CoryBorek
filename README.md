@@ -21,11 +21,11 @@ Software Engineer and Computer Science Student
 - [CoryBorek/mc-server-scripts](https://github.com/CoryBorek/mc-server-scripts) - 
 ### Recent Pull Requests
 
+- [Add remove function to stdio bindings](https://github.com/zirco-lang/zrc/pull/551) on [zirco-lang/zrc](https://github.com/zirco-lang/zrc)
+- [merge with upstream](https://github.com/CoryBorek/zrc/pull/1) on [CoryBorek/zrc](https://github.com/CoryBorek/zrc)
 - [Add file headers to stdio.zh](https://github.com/zirco-lang/zrc/pull/543) on [zirco-lang/zrc](https://github.com/zirco-lang/zrc)
 - [Add include directory into build output](https://github.com/zirco-lang/zrc/pull/538) on [zirco-lang/zrc](https://github.com/zirco-lang/zrc)
 - [Add in rework changes to get my test program working from the other day.](https://github.com/zirco-lang/zrc/pull/537) on [zirco-lang/zrc](https://github.com/zirco-lang/zrc)
-- [update pack](https://github.com/CoryBorek/BoxSMPPack/pull/1) on [CoryBorek/BoxSMPPack](https://github.com/CoryBorek/BoxSMPPack)
-- [0.0.5](https://github.com/OverSeasonsCommunity/mc-pack/pull/2) on [OverSeasonsCommunity/mc-pack](https://github.com/OverSeasonsCommunity/mc-pack)
 ### Recent Stars
 
 - [ME1312/SubServers-2](https://github.com/ME1312/SubServers-2) - SubServers – The Minecraft Server Management Platform
