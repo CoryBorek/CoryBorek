@@ -10,8 +10,8 @@ Software Engineer and Computer Science Student
 - [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc) - A limited subset of the Zirco compiler meant for future self-hosting
 - [zirco-lang/zrc](https://github.com/zirco-lang/zrc) - The official Zirco compiler
 - [CoryBorek/lavacraft4-modpack](https://github.com/CoryBorek/lavacraft4-modpack) - 
-- [LowtoHighLevel/CPU](https://github.com/LowtoHighLevel/CPU) - 
 - [LowtoHighLevel/ASM](https://github.com/LowtoHighLevel/ASM) - 
+- [LowtoHighLevel/CPU](https://github.com/LowtoHighLevel/CPU) - 
 ### Latest Projects
 
 - [CoryBorek/lavacraft4-modpack](https://github.com/CoryBorek/lavacraft4-modpack) - 
