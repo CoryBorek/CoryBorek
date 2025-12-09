@@ -7,25 +7,25 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
+- [lavacraft-mc/lavacraft4-modpack](https://github.com/lavacraft-mc/lavacraft4-modpack) - 
+- [lavacraft-mc/lavacraft4-resource-pack](https://github.com/lavacraft-mc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
 - [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc) - A limited subset of the Zirco compiler meant for future self-hosting
 - [zirco-lang/zrc](https://github.com/zirco-lang/zrc) - The official Zirco compiler
-- [CoryBorek/lavacraft4-modpack](https://github.com/CoryBorek/lavacraft4-modpack) - 
-- [LowtoHighLevel/ASM](https://github.com/LowtoHighLevel/ASM) - 
 - [LowtoHighLevel/CPU](https://github.com/LowtoHighLevel/CPU) - 
 ### Latest Projects
 
-- [CoryBorek/lavacraft4-modpack](https://github.com/CoryBorek/lavacraft4-modpack) - 
 - [CoryBorek/BoxSMPPack](https://github.com/CoryBorek/BoxSMPPack) - 
 - [CoryBorek/site-static](https://github.com/CoryBorek/site-static) - 
 - [CoryBorek/lfs](https://github.com/CoryBorek/lfs) - 
 - [CoryBorek/mc-server-scripts](https://github.com/CoryBorek/mc-server-scripts) - 
+- [CoryBorek/nixos-research](https://github.com/CoryBorek/nixos-research) - 
 ### Recent Pull Requests
 
+- [t](https://github.com/lavacraft-mc/lavacraft4-modpack/pull/2) on [lavacraft-mc/lavacraft4-modpack](https://github.com/lavacraft-mc/lavacraft4-modpack)
+- [update release additions](https://github.com/lavacraft-mc/lavacraft4-modpack/pull/1) on [lavacraft-mc/lavacraft4-modpack](https://github.com/lavacraft-mc/lavacraft4-modpack)
+- [give write permissions to the builder](https://github.com/lavacraft-mc/lavacraft4-resource-pack/pull/1) on [lavacraft-mc/lavacraft4-resource-pack](https://github.com/lavacraft-mc/lavacraft4-resource-pack)
 - [Add remove function to stdio bindings](https://github.com/zirco-lang/zrc/pull/551) on [zirco-lang/zrc](https://github.com/zirco-lang/zrc)
 - [merge with upstream](https://github.com/CoryBorek/zrc/pull/1) on [CoryBorek/zrc](https://github.com/CoryBorek/zrc)
-- [Add file headers to stdio.zh](https://github.com/zirco-lang/zrc/pull/543) on [zirco-lang/zrc](https://github.com/zirco-lang/zrc)
-- [Add include directory into build output](https://github.com/zirco-lang/zrc/pull/538) on [zirco-lang/zrc](https://github.com/zirco-lang/zrc)
-- [Add in rework changes to get my test program working from the other day.](https://github.com/zirco-lang/zrc/pull/537) on [zirco-lang/zrc](https://github.com/zirco-lang/zrc)
 ### Recent Stars
 
 - [ME1312/SubServers-2](https://github.com/ME1312/SubServers-2) - SubServers – The Minecraft Server Management Platform
