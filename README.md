@@ -21,11 +21,11 @@ Software Engineer and Computer Science Student
 - [CoryBorek/nixos-research](https://github.com/CoryBorek/nixos-research) - 
 ### Recent Pull Requests
 
+- [fix modelapplier.zip](https://github.com/lavacraft-mc/lavacraft4-modpack/pull/6) on [lavacraft-mc/lavacraft4-modpack](https://github.com/lavacraft-mc/lavacraft4-modpack)
+- [add modelapplier datapack](https://github.com/lavacraft-mc/lavacraft4-modpack/pull/5) on [lavacraft-mc/lavacraft4-modpack](https://github.com/lavacraft-mc/lavacraft4-modpack)
+- [update lavacraft datapack](https://github.com/lavacraft-mc/lavacraft4-modpack/pull/4) on [lavacraft-mc/lavacraft4-modpack](https://github.com/lavacraft-mc/lavacraft4-modpack)
+- [Add lavacraft datapack](https://github.com/lavacraft-mc/lavacraft4-modpack/pull/3) on [lavacraft-mc/lavacraft4-modpack](https://github.com/lavacraft-mc/lavacraft4-modpack)
 - [t](https://github.com/lavacraft-mc/lavacraft4-modpack/pull/2) on [lavacraft-mc/lavacraft4-modpack](https://github.com/lavacraft-mc/lavacraft4-modpack)
-- [update release additions](https://github.com/lavacraft-mc/lavacraft4-modpack/pull/1) on [lavacraft-mc/lavacraft4-modpack](https://github.com/lavacraft-mc/lavacraft4-modpack)
-- [give write permissions to the builder](https://github.com/lavacraft-mc/lavacraft4-resource-pack/pull/1) on [lavacraft-mc/lavacraft4-resource-pack](https://github.com/lavacraft-mc/lavacraft4-resource-pack)
-- [Add remove function to stdio bindings](https://github.com/zirco-lang/zrc/pull/551) on [zirco-lang/zrc](https://github.com/zirco-lang/zrc)
-- [merge with upstream](https://github.com/CoryBorek/zrc/pull/1) on [CoryBorek/zrc](https://github.com/CoryBorek/zrc)
 ### Recent Stars
 
 - [ME1312/SubServers-2](https://github.com/ME1312/SubServers-2) - SubServers – The Minecraft Server Management Platform
