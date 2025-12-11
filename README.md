@@ -7,11 +7,11 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
-- [lavacraft-mc/lavacraft4-modpack](https://github.com/lavacraft-mc/lavacraft4-modpack) - 
 - [lavacraft-mc/lavacraft4-resource-pack](https://github.com/lavacraft-mc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
+- [lavacraft-mc/lavacraft4-modpack](https://github.com/lavacraft-mc/lavacraft4-modpack) - 
 - [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc) - A limited subset of the Zirco compiler meant for future self-hosting
 - [zirco-lang/zrc](https://github.com/zirco-lang/zrc) - The official Zirco compiler
-- [LowtoHighLevel/CPU](https://github.com/LowtoHighLevel/CPU) - 
+- [LowtoHighLevel/ASM](https://github.com/LowtoHighLevel/ASM) - 
 ### Latest Projects
 
 - [CoryBorek/BoxSMPPack](https://github.com/CoryBorek/BoxSMPPack) - 
