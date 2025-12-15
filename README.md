@@ -7,11 +7,11 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
-- [lavacraft-mc/lavacraft4-resource-pack](https://github.com/lavacraft-mc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
 - [lavacraft-mc/lavacraft4-modpack](https://github.com/lavacraft-mc/lavacraft4-modpack) - 
+- [LowtoHighLevel/asm-video](https://github.com/LowtoHighLevel/asm-video) - 
+- [lavacraft-mc/lavacraft4-resource-pack](https://github.com/lavacraft-mc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
 - [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc) - A limited subset of the Zirco compiler meant for future self-hosting
 - [zirco-lang/zrc](https://github.com/zirco-lang/zrc) - The official Zirco compiler
-- [LowtoHighLevel/ASM](https://github.com/LowtoHighLevel/ASM) - 
 ### Latest Projects
 
 - [CoryBorek/BoxSMPPack](https://github.com/CoryBorek/BoxSMPPack) - 
@@ -21,11 +21,11 @@ Software Engineer and Computer Science Student
 - [CoryBorek/nixos-research](https://github.com/CoryBorek/nixos-research) - 
 ### Recent Pull Requests
 
+- [update datapacks, bump version to 0.0.6](https://github.com/lavacraft-mc/lavacraft4-modpack/pull/7) on [lavacraft-mc/lavacraft4-modpack](https://github.com/lavacraft-mc/lavacraft4-modpack)
 - [fix modelapplier.zip](https://github.com/lavacraft-mc/lavacraft4-modpack/pull/6) on [lavacraft-mc/lavacraft4-modpack](https://github.com/lavacraft-mc/lavacraft4-modpack)
 - [add modelapplier datapack](https://github.com/lavacraft-mc/lavacraft4-modpack/pull/5) on [lavacraft-mc/lavacraft4-modpack](https://github.com/lavacraft-mc/lavacraft4-modpack)
 - [update lavacraft datapack](https://github.com/lavacraft-mc/lavacraft4-modpack/pull/4) on [lavacraft-mc/lavacraft4-modpack](https://github.com/lavacraft-mc/lavacraft4-modpack)
 - [Add lavacraft datapack](https://github.com/lavacraft-mc/lavacraft4-modpack/pull/3) on [lavacraft-mc/lavacraft4-modpack](https://github.com/lavacraft-mc/lavacraft4-modpack)
-- [t](https://github.com/lavacraft-mc/lavacraft4-modpack/pull/2) on [lavacraft-mc/lavacraft4-modpack](https://github.com/lavacraft-mc/lavacraft4-modpack)
 ### Recent Stars
 
 - [ME1312/SubServers-2](https://github.com/ME1312/SubServers-2) - SubServers – The Minecraft Server Management Platform
