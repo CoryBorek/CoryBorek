@@ -9,16 +9,16 @@ Software Engineer and Computer Science Student
 
 - [lavacraft-mc/lavacraft4-modpack](https://github.com/lavacraft-mc/lavacraft4-modpack) - 
 - [LowtoHighLevel/asm-video](https://github.com/LowtoHighLevel/asm-video) - 
+- [CoryBorek/hawk-emu](https://github.com/CoryBorek/hawk-emu) - 
 - [lavacraft-mc/lavacraft4-resource-pack](https://github.com/lavacraft-mc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
 - [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc) - A limited subset of the Zirco compiler meant for future self-hosting
-- [zirco-lang/zrc](https://github.com/zirco-lang/zrc) - The official Zirco compiler
 ### Latest Projects
 
+- [CoryBorek/hawk-emu](https://github.com/CoryBorek/hawk-emu) - 
 - [CoryBorek/BoxSMPPack](https://github.com/CoryBorek/BoxSMPPack) - 
 - [CoryBorek/site-static](https://github.com/CoryBorek/site-static) - 
 - [CoryBorek/lfs](https://github.com/CoryBorek/lfs) - 
 - [CoryBorek/mc-server-scripts](https://github.com/CoryBorek/mc-server-scripts) - 
-- [CoryBorek/nixos-research](https://github.com/CoryBorek/nixos-research) - 
 ### Recent Pull Requests
 
 - [update datapacks, bump version to 0.0.6](https://github.com/lavacraft-mc/lavacraft4-modpack/pull/7) on [lavacraft-mc/lavacraft4-modpack](https://github.com/lavacraft-mc/lavacraft4-modpack)
