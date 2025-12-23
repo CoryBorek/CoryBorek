@@ -9,9 +9,9 @@ Software Engineer and Computer Science Student
 
 - [lavacraftmc/lavacraftmc.github.io](https://github.com/lavacraftmc/lavacraftmc.github.io) - 
 - [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
-- [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack) - 
 - [CoryBorek/hawk-emu](https://github.com/CoryBorek/hawk-emu) - 
 - [LowtoHighLevel/asm-video](https://github.com/LowtoHighLevel/asm-video) - 
+- [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack) - 
 ### Latest Projects
 
 - [CoryBorek/hawk-emu](https://github.com/CoryBorek/hawk-emu) - 
