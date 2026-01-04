@@ -7,11 +7,11 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
+- [CoryBorek/coryborek.github.io](https://github.com/CoryBorek/coryborek.github.io) - 
+- [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter) - A utility that allows Minecraft: Java Edition resource packs to work in other versions accurately and effectively.
 - [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack) - 
 - [lavacraftmc/lavacraftmc.github.io](https://github.com/lavacraftmc/lavacraftmc.github.io) - 
 - [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
-- [LowtoHighLevel/asm-video](https://github.com/LowtoHighLevel/asm-video) - 
-- [CoryBorek/hawk-emu](https://github.com/CoryBorek/hawk-emu) - 
 ### Latest Projects
 
 - [CoryBorek/hawk-emu](https://github.com/CoryBorek/hawk-emu) - 
@@ -21,11 +21,11 @@ Software Engineer and Computer Science Student
 - [CoryBorek/mc-server-scripts](https://github.com/CoryBorek/mc-server-scripts) - 
 ### Recent Pull Requests
 
+- [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/agentdid127/ResourcePackConverter/pull/265) on [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter)
+- [Potential fix for code scanning alert no. 2: Workflow does not contain permissions](https://github.com/agentdid127/ResourcePackConverter/pull/264) on [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter)
+- [Potential fix for code scanning alert no. 3: Workflow does not contain permissions](https://github.com/agentdid127/ResourcePackConverter/pull/263) on [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter)
+- [merge back master changes](https://github.com/agentdid127/ResourcePackConverter/pull/262) on [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter)
 - [0.0.7](https://github.com/lavacraftmc/lavacraft4-modpack/pull/9) on [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack)
-- [update pack to support latest version of minecraft](https://github.com/lavacraftmc/lavacraft4-modpack/pull/8) on [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack)
-- [Update pack.mcmeta to support 1.21.11](https://github.com/ewanhowell5195/ModelApplier/pull/9) on [ewanhowell5195/ModelApplier](https://github.com/ewanhowell5195/ModelApplier)
-- [update datapacks, bump version to 0.0.6](https://github.com/lavacraftmc/lavacraft4-modpack/pull/7) on [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack)
-- [fix modelapplier.zip](https://github.com/lavacraftmc/lavacraft4-modpack/pull/6) on [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack)
 ### Recent Stars
 
 - [ME1312/SubServers-2](https://github.com/ME1312/SubServers-2) - SubServers – The Minecraft Server Management Platform
