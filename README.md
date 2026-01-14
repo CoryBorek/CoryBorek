@@ -8,10 +8,10 @@ Software Engineer and Computer Science Student
 ### Recent Contributions
 
 - [CoryBorek/notes-md](https://github.com/CoryBorek/notes-md) - The Markdown Source for my website.
+- [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack) - 
 - [CoryBorek/coryborek.github.io](https://github.com/CoryBorek/coryborek.github.io) - 
 - [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter) - A utility that allows Minecraft: Java Edition resource packs to work in other versions accurately and effectively.
-- [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack) - 
-- [lavacraftmc/lavacraftmc.github.io](https://github.com/lavacraftmc/lavacraftmc.github.io) - 
+- [lavacraftmc/lavacraft-datapack](https://github.com/lavacraftmc/lavacraft-datapack) - 
 ### Latest Projects
 
 - [CoryBorek/hawk-emu](https://github.com/CoryBorek/hawk-emu) - 
@@ -21,11 +21,11 @@ Software Engineer and Computer Science Student
 - [CoryBorek/mc-server-scripts](https://github.com/CoryBorek/mc-server-scripts) - 
 ### Recent Pull Requests
 
+- [update mods](https://github.com/lavacraftmc/lavacraft4-modpack/pull/11) on [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack)
+- [added a couple of forgotten datapacks/mods, crafting tweaks](https://github.com/lavacraftmc/lavacraft4-modpack/pull/10) on [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack)
 - [Potential fix for code scanning alert no. 1: Workflow does not contain permissions](https://github.com/agentdid127/ResourcePackConverter/pull/265) on [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter)
 - [Potential fix for code scanning alert no. 2: Workflow does not contain permissions](https://github.com/agentdid127/ResourcePackConverter/pull/264) on [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter)
 - [Potential fix for code scanning alert no. 3: Workflow does not contain permissions](https://github.com/agentdid127/ResourcePackConverter/pull/263) on [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter)
-- [merge back master changes](https://github.com/agentdid127/ResourcePackConverter/pull/262) on [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter)
-- [0.0.7](https://github.com/lavacraftmc/lavacraft4-modpack/pull/9) on [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack)
 ### Recent Stars
 
 - [ME1312/SubServers-2](https://github.com/ME1312/SubServers-2) - SubServers – The Minecraft Server Management Platform
