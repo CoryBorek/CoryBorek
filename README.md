@@ -7,11 +7,11 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
+- [lavacraftmc/lavacraft-datapack](https://github.com/lavacraftmc/lavacraft-datapack) - 
 - [lavacraftmc/lavacraftmc.github.io](https://github.com/lavacraftmc/lavacraftmc.github.io) - 
 - [CoryBorek/notes-md](https://github.com/CoryBorek/notes-md) - The Markdown Source for my website.
 - [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
 - [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack) - 
-- [lavacraftmc/lavacraft-datapack](https://github.com/lavacraftmc/lavacraft-datapack) - 
 ### Latest Projects
 
 - [CoryBorek/hawk-emu](https://github.com/CoryBorek/hawk-emu) - 
@@ -21,11 +21,11 @@ Software Engineer and Computer Science Student
 - [CoryBorek/mc-server-scripts](https://github.com/CoryBorek/mc-server-scripts) - 
 ### Recent Pull Requests
 
+- [v0.1.0](https://github.com/lavacraftmc/lavacraft-datapack/pull/4) on [lavacraftmc/lavacraft-datapack](https://github.com/lavacraftmc/lavacraft-datapack)
 - [v0.1.0](https://github.com/lavacraftmc/lavacraft4-modpack/pull/12) on [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack)
 - [v0.1](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/2) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 - [v0.1](https://github.com/lavacraftmc/lavacraft-datapack/pull/3) on [lavacraftmc/lavacraft-datapack](https://github.com/lavacraftmc/lavacraft-datapack)
 - [update mods](https://github.com/lavacraftmc/lavacraft4-modpack/pull/11) on [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack)
-- [added a couple of forgotten datapacks/mods, crafting tweaks](https://github.com/lavacraftmc/lavacraft4-modpack/pull/10) on [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack)
 ### Recent Stars
 
 - [ME1312/SubServers-2](https://github.com/ME1312/SubServers-2) - SubServers – The Minecraft Server Management Platform
