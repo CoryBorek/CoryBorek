@@ -7,10 +7,10 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
-- [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc) - A limited subset of the Zirco compiler meant for future self-hosting
-- [CoryBorek/notes-md](https://github.com/CoryBorek/notes-md) - The Markdown Source for my website.
-- [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
 - [lavacraftmc/lavacraftmc.github.io](https://github.com/lavacraftmc/lavacraftmc.github.io) - 
+- [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc) - A limited subset of the Zirco compiler meant for future self-hosting
+- [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
+- [CoryBorek/notes-md](https://github.com/CoryBorek/notes-md) - The Markdown Source for my website.
 - [LowtoHighLevel/asm-video](https://github.com/LowtoHighLevel/asm-video) - 
 ### Latest Projects
 
