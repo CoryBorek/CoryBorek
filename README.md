@@ -7,11 +7,11 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
+- [UGAHacks-11-CS-Nerds/notiscan](https://github.com/UGAHacks-11-CS-Nerds/notiscan) - 
 - [UGAHacks-11-CS-Nerds/UGAHacks-11-CS-Nerds.github.io](https://github.com/UGAHacks-11-CS-Nerds/UGAHacks-11-CS-Nerds.github.io) - 
+- [UGAHacks-11-CS-Nerds/frontend](https://github.com/UGAHacks-11-CS-Nerds/frontend) - 
 - [UGAHacks-11-CS-Nerds/api](https://github.com/UGAHacks-11-CS-Nerds/api) - 
-- [lavacraftmc/lavacraftmc.github.io](https://github.com/lavacraftmc/lavacraftmc.github.io) - 
-- [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc) - A limited subset of the Zirco compiler meant for future self-hosting
-- [CoryBorek/notes-md](https://github.com/CoryBorek/notes-md) - The Markdown Source for my website.
+- [UGAHacks-11-CS-Nerds/frontend-user](https://github.com/UGAHacks-11-CS-Nerds/frontend-user) - 
 ### Latest Projects
 
 - [CoryBorek/hawk-emu](https://github.com/CoryBorek/hawk-emu) - 
@@ -21,11 +21,11 @@ Software Engineer and Computer Science Student
 - [CoryBorek/mc-server-scripts](https://github.com/CoryBorek/mc-server-scripts) - 
 ### Recent Pull Requests
 
+- [add eas for remote builds](https://github.com/UGAHacks-11-CS-Nerds/frontend/pull/2) on [UGAHacks-11-CS-Nerds/frontend](https://github.com/UGAHacks-11-CS-Nerds/frontend)
 - [Account resource in progress](https://github.com/UGAHacks-11-CS-Nerds/api/pull/7) on [UGAHacks-11-CS-Nerds/api](https://github.com/UGAHacks-11-CS-Nerds/api)
 - [hotix](https://github.com/UGAHacks-11-CS-Nerds/api/pull/6) on [UGAHacks-11-CS-Nerds/api](https://github.com/UGAHacks-11-CS-Nerds/api)
 - [Bugfix/message length](https://github.com/UGAHacks-11-CS-Nerds/api/pull/5) on [UGAHacks-11-CS-Nerds/api](https://github.com/UGAHacks-11-CS-Nerds/api)
 - [Fix array out of bounds error when getting messages from session](https://github.com/UGAHacks-11-CS-Nerds/api/pull/4) on [UGAHacks-11-CS-Nerds/api](https://github.com/UGAHacks-11-CS-Nerds/api)
-- [Generate Session ids](https://github.com/UGAHacks-11-CS-Nerds/api/pull/3) on [UGAHacks-11-CS-Nerds/api](https://github.com/UGAHacks-11-CS-Nerds/api)
 ### Recent Stars
 
 - [ME1312/SubServers-2](https://github.com/ME1312/SubServers-2) - SubServers – The Minecraft Server Management Platform
