@@ -8,10 +8,10 @@ Software Engineer and Computer Science Student
 ### Recent Contributions
 
 - [UGAHacks-11-CS-Nerds/notiscan](https://github.com/UGAHacks-11-CS-Nerds/notiscan) - 
-- [UGAHacks-11-CS-Nerds/UGAHacks-11-CS-Nerds.github.io](https://github.com/UGAHacks-11-CS-Nerds/UGAHacks-11-CS-Nerds.github.io) - 
 - [UGAHacks-11-CS-Nerds/frontend](https://github.com/UGAHacks-11-CS-Nerds/frontend) - 
-- [UGAHacks-11-CS-Nerds/api](https://github.com/UGAHacks-11-CS-Nerds/api) - 
+- [UGAHacks-11-CS-Nerds/UGAHacks-11-CS-Nerds.github.io](https://github.com/UGAHacks-11-CS-Nerds/UGAHacks-11-CS-Nerds.github.io) - 
 - [UGAHacks-11-CS-Nerds/frontend-user](https://github.com/UGAHacks-11-CS-Nerds/frontend-user) - 
+- [UGAHacks-11-CS-Nerds/api](https://github.com/UGAHacks-11-CS-Nerds/api) - 
 ### Latest Projects
 
 - [CoryBorek/hawk-emu](https://github.com/CoryBorek/hawk-emu) - 
