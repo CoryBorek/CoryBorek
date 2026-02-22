@@ -7,9 +7,9 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
+- [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
 - [lavacraftmc/lavacraftmc.github.io](https://github.com/lavacraftmc/lavacraftmc.github.io) - 
 - [UGAHacks-11-CS-Nerds/notiscan](https://github.com/UGAHacks-11-CS-Nerds/notiscan) - 
-- [UGAHacks-11-CS-Nerds/frontend](https://github.com/UGAHacks-11-CS-Nerds/frontend) - 
 - [UGAHacks-11-CS-Nerds/frontend-user](https://github.com/UGAHacks-11-CS-Nerds/frontend-user) - 
 - [UGAHacks-11-CS-Nerds/api](https://github.com/UGAHacks-11-CS-Nerds/api) - 
 ### Latest Projects
@@ -21,11 +21,11 @@ Software Engineer and Computer Science Student
 - [CoryBorek/mc-server-scripts](https://github.com/CoryBorek/mc-server-scripts) - 
 ### Recent Pull Requests
 
+- [update pack](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/6) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 - [add eas for remote builds](https://github.com/UGAHacks-11-CS-Nerds/frontend/pull/2) on [UGAHacks-11-CS-Nerds/frontend](https://github.com/UGAHacks-11-CS-Nerds/frontend)
 - [Account resource in progress](https://github.com/UGAHacks-11-CS-Nerds/api/pull/7) on [UGAHacks-11-CS-Nerds/api](https://github.com/UGAHacks-11-CS-Nerds/api)
 - [hotix](https://github.com/UGAHacks-11-CS-Nerds/api/pull/6) on [UGAHacks-11-CS-Nerds/api](https://github.com/UGAHacks-11-CS-Nerds/api)
 - [Bugfix/message length](https://github.com/UGAHacks-11-CS-Nerds/api/pull/5) on [UGAHacks-11-CS-Nerds/api](https://github.com/UGAHacks-11-CS-Nerds/api)
-- [Fix array out of bounds error when getting messages from session](https://github.com/UGAHacks-11-CS-Nerds/api/pull/4) on [UGAHacks-11-CS-Nerds/api](https://github.com/UGAHacks-11-CS-Nerds/api)
 ### Recent Stars
 
 - [ME1312/SubServers-2](https://github.com/ME1312/SubServers-2) - SubServers – The Minecraft Server Management Platform
