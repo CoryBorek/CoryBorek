@@ -7,10 +7,10 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
+- [lavacraftmc/lavacraft-datapack](https://github.com/lavacraftmc/lavacraft-datapack) - 
 - [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
 - [lavacraftmc/lavacraftmc.github.io](https://github.com/lavacraftmc/lavacraftmc.github.io) - 
 - [UGAHacks-11-CS-Nerds/notiscan](https://github.com/UGAHacks-11-CS-Nerds/notiscan) - 
-- [UGAHacks-11-CS-Nerds/frontend-user](https://github.com/UGAHacks-11-CS-Nerds/frontend-user) - 
 - [UGAHacks-11-CS-Nerds/api](https://github.com/UGAHacks-11-CS-Nerds/api) - 
 ### Latest Projects
 
