@@ -7,11 +7,11 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
-- [lavacraftmc/lavacraft-datapack](https://github.com/lavacraftmc/lavacraft-datapack) - 
 - [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
+- [lavacraftmc/lavacraft-datapack](https://github.com/lavacraftmc/lavacraft-datapack) - 
 - [lavacraftmc/lavacraftmc.github.io](https://github.com/lavacraftmc/lavacraftmc.github.io) - 
 - [UGAHacks-11-CS-Nerds/notiscan](https://github.com/UGAHacks-11-CS-Nerds/notiscan) - 
-- [UGAHacks-11-CS-Nerds/api](https://github.com/UGAHacks-11-CS-Nerds/api) - 
+- [UGAHacks-11-CS-Nerds/UGAHacks-11-CS-Nerds.github.io](https://github.com/UGAHacks-11-CS-Nerds/UGAHacks-11-CS-Nerds.github.io) - 
 ### Latest Projects
 
 - [CoryBorek/hawk-emu](https://github.com/CoryBorek/hawk-emu) - 
@@ -21,11 +21,11 @@ Software Engineer and Computer Science Student
 - [CoryBorek/mc-server-scripts](https://github.com/CoryBorek/mc-server-scripts) - 
 ### Recent Pull Requests
 
+- [add duelist_chapeau](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/10) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 - [Remove aliens](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/9) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 - [aliens](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/8) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 - [load motorbike](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/7) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 - [update pack](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/6) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
-- [add eas for remote builds](https://github.com/UGAHacks-11-CS-Nerds/frontend/pull/2) on [UGAHacks-11-CS-Nerds/frontend](https://github.com/UGAHacks-11-CS-Nerds/frontend)
 ### Recent Stars
 
 - [ME1312/SubServers-2](https://github.com/ME1312/SubServers-2) - SubServers – The Minecraft Server Management Platform
