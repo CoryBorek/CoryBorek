@@ -21,11 +21,11 @@ Software Engineer and Computer Science Student
 - [CoryBorek/mc-server-scripts](https://github.com/CoryBorek/mc-server-scripts) - 
 ### Recent Pull Requests
 
+- [Cookies and Cat Ears](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/11) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 - [add duelist_chapeau](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/10) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 - [Remove aliens](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/9) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 - [aliens](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/8) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 - [load motorbike](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/7) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
-- [update pack](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/6) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 ### Recent Stars
 
 - [ME1312/SubServers-2](https://github.com/ME1312/SubServers-2) - SubServers – The Minecraft Server Management Platform
