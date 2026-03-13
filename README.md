@@ -7,25 +7,25 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
+- [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack) - 
+- [CoryBorek/agentdid127-lavacraft4](https://github.com/CoryBorek/agentdid127-lavacraft4) - 
 - [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
 - [lavacraftmc/lavacraft-api](https://github.com/lavacraftmc/lavacraft-api) - 
 - [lavacraftmc/lavacraft-datapack](https://github.com/lavacraftmc/lavacraft-datapack) - 
-- [lavacraftmc/lavacraftmc.github.io](https://github.com/lavacraftmc/lavacraftmc.github.io) - 
-- [lavacraftmc/lavacraft-site](https://github.com/lavacraftmc/lavacraft-site) - 
 ### Latest Projects
 
+- [CoryBorek/agentdid127-lavacraft4](https://github.com/CoryBorek/agentdid127-lavacraft4) - 
 - [CoryBorek/hawk-emu](https://github.com/CoryBorek/hawk-emu) - 
 - [CoryBorek/BoxSMPPack](https://github.com/CoryBorek/BoxSMPPack) - 
 - [CoryBorek/site-static](https://github.com/CoryBorek/site-static) - 
 - [CoryBorek/lfs](https://github.com/CoryBorek/lfs) - 
-- [CoryBorek/mc-server-scripts](https://github.com/CoryBorek/mc-server-scripts) - 
 ### Recent Pull Requests
 
+- [add anvil never too expensive, remove afk display as we don&#39;t use it](https://github.com/lavacraftmc/lavacraft4-modpack/pull/13) on [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack)
 - [infection trophy](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/12) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 - [Cookies and Cat Ears](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/11) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 - [add duelist_chapeau](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/10) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 - [Remove aliens](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/9) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
-- [aliens](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/8) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 ### Recent Stars
 
 - [ME1312/SubServers-2](https://github.com/ME1312/SubServers-2) - SubServers – The Minecraft Server Management Platform
