@@ -7,10 +7,10 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
+- [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
 - [CoryBorek/notes-md](https://github.com/CoryBorek/notes-md) - The Markdown Source for my website.
 - [CoryBorek/agentdid127-lavacraft4](https://github.com/CoryBorek/agentdid127-lavacraft4) - 
 - [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack) - 
-- [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
 - [lavacraftmc/lavacraft-api](https://github.com/lavacraftmc/lavacraft-api) - 
 ### Latest Projects
 
@@ -21,11 +21,11 @@ Software Engineer and Computer Science Student
 - [CoryBorek/lfs](https://github.com/CoryBorek/lfs) - 
 ### Recent Pull Requests
 
+- [add hat](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/13) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 - [add anvil never too expensive, remove afk display as we don&#39;t use it](https://github.com/lavacraftmc/lavacraft4-modpack/pull/13) on [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack)
 - [infection trophy](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/12) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 - [Cookies and Cat Ears](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/11) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 - [add duelist_chapeau](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/10) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
-- [Remove aliens](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/9) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 ### Recent Stars
 
 - [ME1312/SubServers-2](https://github.com/ME1312/SubServers-2) - SubServers – The Minecraft Server Management Platform
