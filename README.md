@@ -7,18 +7,18 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
+- [CoryBorek/sf2-lt-decomp](https://github.com/CoryBorek/sf2-lt-decomp) - 
 - [lavacraftmc/lavacraftmc.github.io](https://github.com/lavacraftmc/lavacraftmc.github.io) - 
-- [LowtoHighLevel/ASM](https://github.com/LowtoHighLevel/ASM) - 
 - [LowtoHighLevel/asm-video](https://github.com/LowtoHighLevel/asm-video) - 
+- [LowtoHighLevel/ASM](https://github.com/LowtoHighLevel/ASM) - 
 - [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
-- [CoryBorek/notes-md](https://github.com/CoryBorek/notes-md) - The Markdown Source for my website.
 ### Latest Projects
 
+- [CoryBorek/sf2-lt-decomp](https://github.com/CoryBorek/sf2-lt-decomp) - 
 - [CoryBorek/agentdid127-lavacraft4](https://github.com/CoryBorek/agentdid127-lavacraft4) - 
 - [CoryBorek/hawk-emu](https://github.com/CoryBorek/hawk-emu) - 
 - [CoryBorek/BoxSMPPack](https://github.com/CoryBorek/BoxSMPPack) - 
 - [CoryBorek/site-static](https://github.com/CoryBorek/site-static) - 
-- [CoryBorek/lfs](https://github.com/CoryBorek/lfs) - 
 ### Recent Pull Requests
 
 - [add hat](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/13) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
