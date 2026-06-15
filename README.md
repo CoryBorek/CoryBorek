@@ -9,8 +9,8 @@ Software Engineer and Computer Science Student
 
 - [CoryBorek/sf2-lt-decomp](https://github.com/CoryBorek/sf2-lt-decomp) - 
 - [lavacraftmc/lavacraftmc.github.io](https://github.com/lavacraftmc/lavacraftmc.github.io) - 
-- [LowtoHighLevel/ASM](https://github.com/LowtoHighLevel/ASM) - 
 - [LowtoHighLevel/asm-video](https://github.com/LowtoHighLevel/asm-video) - 
+- [LowtoHighLevel/ASM](https://github.com/LowtoHighLevel/ASM) - 
 - [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
 ### Latest Projects
 
