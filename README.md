@@ -7,11 +7,11 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
+- [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter) - A utility that allows Minecraft: Java Edition resource packs to work in other versions accurately and effectively.
 - [CoryBorek/sf2-lt-decomp](https://github.com/CoryBorek/sf2-lt-decomp) - 
 - [lavacraftmc/lavacraftmc.github.io](https://github.com/lavacraftmc/lavacraftmc.github.io) - 
 - [LowtoHighLevel/asm-video](https://github.com/LowtoHighLevel/asm-video) - 
 - [LowtoHighLevel/ASM](https://github.com/LowtoHighLevel/ASM) - 
-- [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
 ### Latest Projects
 
 - [CoryBorek/sf2-lt-decomp](https://github.com/CoryBorek/sf2-lt-decomp) - 
@@ -21,11 +21,11 @@ Software Engineer and Computer Science Student
 - [CoryBorek/site-static](https://github.com/CoryBorek/site-static) - 
 ### Recent Pull Requests
 
+- [Update/1 21 11](https://github.com/agentdid127/ResourcePackConverter/pull/274) on [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter)
 - [add hat](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/13) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 - [add anvil never too expensive, remove afk display as we don&#39;t use it](https://github.com/lavacraftmc/lavacraft4-modpack/pull/13) on [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack)
 - [infection trophy](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/12) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 - [Cookies and Cat Ears](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/11) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
-- [add duelist_chapeau](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/10) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 ### Recent Stars
 
 - [ME1312/SubServers-2](https://github.com/ME1312/SubServers-2) - SubServers – The Minecraft Server Management Platform
