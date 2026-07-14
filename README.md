@@ -25,7 +25,6 @@ Software Engineer and Computer Science Student
 - [Update/1 21 11](https://github.com/agentdid127/ResourcePackConverter/pull/274) on [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter)
 - [add hat](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/13) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 - [add anvil never too expensive, remove afk display as we don&#39;t use it](https://github.com/lavacraftmc/lavacraft4-modpack/pull/13) on [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack)
-- [infection trophy](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/12) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 ### Recent Stars
 
 - [ME1312/SubServers-2](https://github.com/ME1312/SubServers-2) - SubServers – The Minecraft Server Management Platform
