@@ -7,11 +7,11 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
+- [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc) - A limited subset of the Zirco compiler meant for future self-hosting
 - [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
 - [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter) - A utility that allows Minecraft: Java Edition resource packs to work in other versions accurately and effectively.
 - [CoryBorek/sf2-lt-decomp](https://github.com/CoryBorek/sf2-lt-decomp) - 
 - [lavacraftmc/lavacraftmc.github.io](https://github.com/lavacraftmc/lavacraftmc.github.io) - 
-- [LowtoHighLevel/asm-video](https://github.com/LowtoHighLevel/asm-video) - 
 ### Latest Projects
 
 - [CoryBorek/sf2-lt-decomp](https://github.com/CoryBorek/sf2-lt-decomp) - 
@@ -21,17 +21,18 @@ Software Engineer and Computer Science Student
 - [CoryBorek/site-static](https://github.com/CoryBorek/site-static) - 
 ### Recent Pull Requests
 
-- [t](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/14) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
-- [Update/1 21 11](https://github.com/agentdid127/ResourcePackConverter/pull/274) on [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter)
-- [add hat](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/13) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
-- [add anvil never too expensive, remove afk display as we don&#39;t use it](https://github.com/lavacraftmc/lavacraft4-modpack/pull/13) on [lavacraftmc/lavacraft4-modpack](https://github.com/lavacraftmc/lavacraft4-modpack)
+- [identifiers in statements](https://github.com/zirco-lang/openzrc/pull/11) on [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc)
+- [Develop](https://github.com/zirco-lang/openzrc/pull/10) on [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc)
+- [Develop](https://github.com/zirco-lang/openzrc/pull/9) on [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc)
+- [remove old test build](https://github.com/zirco-lang/openzrc/pull/8) on [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc)
+- [Update script](https://github.com/zirco-lang/openzrc/pull/7) on [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc)
 ### Recent Stars
 
+- [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc) - A limited subset of the Zirco compiler meant for future self-hosting
 - [ME1312/SubServers-2](https://github.com/ME1312/SubServers-2) - SubServers – The Minecraft Server Management Platform
 - [sdp-io/uga-rmp-extension](https://github.com/sdp-io/uga-rmp-extension) - Chrome extension that displays RateMyProfessor ratings directly on UGA&#39;s Athena course registration page
 - [mikel-brostrom/Yolov3_DeepSort_Pytorch](https://github.com/mikel-brostrom/Yolov3_DeepSort_Pytorch) - Real-time multi-person tracker using YOLO v3 and deep sort
 - [visrealm/vrEmu6502](https://github.com/visrealm/vrEmu6502) - 6502/65C02 emulator library (C99)
-- [scottwilliambeasley/debian-from-scratch](https://github.com/scottwilliambeasley/debian-from-scratch) - An instruction manual for teaching Linux From Scratch users how to make a fully-fledged Debian system based on LFS.
 ### Links:
   - Youtube        : <https://youtube.com/@agentdid127>
   - Twitch         : <https://twitch.tv/agentdid127>
