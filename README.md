@@ -21,11 +21,11 @@ Software Engineer and Computer Science Student
 - [CoryBorek/site-static](https://github.com/CoryBorek/site-static) - 
 ### Recent Pull Requests
 
+- [Add function definitions](https://github.com/zirco-lang/openzrc/pull/19) on [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc)
 - [Add subtraction binary operator](https://github.com/zirco-lang/openzrc/pull/18) on [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc)
 - [Update Cory Borek&#39;s profile URL and contributions](https://github.com/zirco-lang/zrc/pull/737) on [zirco-lang/zrc](https://github.com/zirco-lang/zrc)
 - [final multi-day nightly build](https://github.com/zirco-lang/openzrc/pull/17) on [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc)
 - [add openzrc as a valid command as well](https://github.com/zirco-lang/openzrc/pull/16) on [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc)
-- [Rework/stage 1](https://github.com/zirco-lang/openzrc/pull/15) on [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc)
 ### Recent Stars
 
 - [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc) - A limited subset of the Zirco compiler meant for future self-hosting
