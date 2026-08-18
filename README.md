@@ -7,11 +7,11 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
+- [LowtoHighLevel/CPU](https://github.com/LowtoHighLevel/CPU) - 
+- [LowtoHighLevel/ASM](https://github.com/LowtoHighLevel/ASM) - 
 - [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
-- [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc) - A limited subset of the Zirco compiler meant for future self-hosting
 - [zirco-lang/zrc](https://github.com/zirco-lang/zrc) - The official Zirco compiler.
-- [agentdid127/ResourcePackConverter](https://github.com/agentdid127/ResourcePackConverter) - A utility that allows Minecraft: Java Edition resource packs to work in other versions accurately and effectively.
-- [CoryBorek/sf2-lt-decomp](https://github.com/CoryBorek/sf2-lt-decomp) - 
+- [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc) - A limited subset of the Zirco compiler meant for future self-hosting
 ### Latest Projects
 
 - [CoryBorek/sf2-lt-decomp](https://github.com/CoryBorek/sf2-lt-decomp) - 
@@ -21,11 +21,11 @@ Software Engineer and Computer Science Student
 - [CoryBorek/site-static](https://github.com/CoryBorek/site-static) - 
 ### Recent Pull Requests
 
+- [Feature/word byte def](https://github.com/LowtoHighLevel/ASM/pull/1) on [LowtoHighLevel/ASM](https://github.com/LowtoHighLevel/ASM)
+- [Feature/cleanup](https://github.com/LowtoHighLevel/CPU/pull/1) on [LowtoHighLevel/CPU](https://github.com/LowtoHighLevel/CPU)
 - [Add protection trophy](https://github.com/lavacraftmc/lavacraft4-resource-pack/pull/15) on [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack)
 - [Add function definitions](https://github.com/zirco-lang/openzrc/pull/19) on [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc)
 - [Add subtraction binary operator](https://github.com/zirco-lang/openzrc/pull/18) on [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc)
-- [Update Cory Borek&#39;s profile URL and contributions](https://github.com/zirco-lang/zrc/pull/737) on [zirco-lang/zrc](https://github.com/zirco-lang/zrc)
-- [final multi-day nightly build](https://github.com/zirco-lang/openzrc/pull/17) on [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc)
 ### Recent Stars
 
 - [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc) - A limited subset of the Zirco compiler meant for future self-hosting
