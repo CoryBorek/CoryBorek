@@ -7,11 +7,11 @@ Software Engineer and Computer Science Student
 
 ### Recent Contributions
 
-- [LowtoHighLevel/CPU](https://github.com/LowtoHighLevel/CPU) - 
+- [LowtoHighLevel/asm-video](https://github.com/LowtoHighLevel/asm-video) - 
+- [CoryBorek/notes-md](https://github.com/CoryBorek/notes-md) - The Markdown Source for my website.
+- [LowtoHighLevel/markdown-source](https://github.com/LowtoHighLevel/markdown-source) - 
 - [LowtoHighLevel/ASM](https://github.com/LowtoHighLevel/ASM) - 
-- [lavacraftmc/lavacraft4-resource-pack](https://github.com/lavacraftmc/lavacraft4-resource-pack) - Resource Pack for LavaCraft Season 4
-- [zirco-lang/zrc](https://github.com/zirco-lang/zrc) - The official Zirco compiler.
-- [zirco-lang/openzrc](https://github.com/zirco-lang/openzrc) - A limited subset of the Zirco compiler meant for future self-hosting
+- [LowtoHighLevel/CPU](https://github.com/LowtoHighLevel/CPU) - 
 ### Latest Projects
 
 - [CoryBorek/sf2-lt-decomp](https://github.com/CoryBorek/sf2-lt-decomp) - 
