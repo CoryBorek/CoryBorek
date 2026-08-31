@@ -10,8 +10,8 @@ Software Engineer and Computer Science Student
 - [LowtoHighLevel/markdown-source](https://github.com/LowtoHighLevel/markdown-source) - 
 - [LowtoHighLevel/asm-video](https://github.com/LowtoHighLevel/asm-video) - 
 - [CoryBorek/notes-md](https://github.com/CoryBorek/notes-md) - The Markdown Source for my website.
-- [LowtoHighLevel/ASM](https://github.com/LowtoHighLevel/ASM) - 
 - [LowtoHighLevel/CPU](https://github.com/LowtoHighLevel/CPU) - 
+- [LowtoHighLevel/ASM](https://github.com/LowtoHighLevel/ASM) - 
 ### Latest Projects
 
 - [CoryBorek/sf2-lt-decomp](https://github.com/CoryBorek/sf2-lt-decomp) - 
